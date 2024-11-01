@@ -1,0 +1,103 @@
+= Changelog =
+
+= 3.0.7 =
+
+* FIX: Obsolete Code Removed
+* FIX: Major Issues
+
+= 3.0.5 =
+
+* FIX: Proper Sanitization, Escaping, Validation of all Post Calls
+* FIX: Removal of all function_exists, class_exists, typeof from all the files.
+* FIX: Uninstall File moved to root folder and changes done as per WordPress guidelines.
+* FIX: Error Reporting in file Removed
+* FIX: Auto Updates Removed
+* FIX: Curl Calls Removed
+
+= 3.0.4 =
+
+* FIX: Code Removed from Skip Action Hook on Wizard Page
+* FIX: Code Removed from De-activation Hook in case of Skipped Wizard Page
+* FIX: Code Removed from Uninstall Hook in case of Skipped Wizard Page
+* FIX: Obsolete Code Removed
+* FIX: Major Issues
+
+= 2.0.1 =
+
+* TRANSLATION: Language Translation Bugs Fixed
+* TRANSLATION: Translation File Updated
+
+= 2.0.0 =
+
+* TWEAK: Obsolete Code removed
+* TWEAK: Unused Files removed
+* TWEAK: Code Optimized
+* TWEAK: New Themes Added
+* FIX: Major Issues
+* TRANSLATION: Translation File Updated
+
+= 1.0.8 =
+
+* TWEAK: Obsolete Code removed
+* TWEAK: Unused Files removed
+* TWEAK: Code Optimized
+* TRANSLATION: Translation File Updated
+
+= 1.0.7 =
+
+* TRANSLATION: New Language Added - German
+* TWEAK: Fremius SDK Removed - Functionality Revoked
+
+= 1.0.6 =
+
+* TRANSLATION: New Language Added - Brazilian Portuguese
+* TWEAK: Fremius SDK Added
+* TWEAK: Obsolete Code Deleted
+* FIX: Few Issues
+* TWEAK: Images Updated
+
+= 1.0.5 =
+
+* TWEAK: Obsolete Code Deleted
+* FIX: Error Displaying on Front Page
+
+= 1.0.4 =
+
+* FIX: Major Issues for Multisite Installations
+* FIX: Major Issues for Uninstall Script
+* FIX: Minor Issues Related to DB Version
+
+= 1.0.3 =
+
+* TWEAK: Obsolete Code Deleted
+* FIX: Minor Issues Related to DB
+* TWEAK: Code Optimized
+
+= 1.0.2 =
+
+* TWEAK: Security Patch Added
+* TWEAK: Obsolete Code Deleted
+* TWEAK: Google Fonts Updated
+* FIX: Code Confliction with WordFence
+* FIX: Code Confliction with WooCommerce
+* FIX: Code Confliction with Other Major Plugins
+* FIX: Major Issues
+* TWEAK: Screenshots Changed
+* TWEAK: Disclaimers Changed
+* TWEAK: Database Updated
+* TRANSLATION: Translations Updated
+
+= 1.0.1 =
+
+* TWEAK: Layout Descriptions
+* FIX:   Few Issues
+* TWEAK: Contact Form Descriptions
+* TWEAK: Contact Form Error Messages
+* TWEAK: Contact Form Success Messages
+* TWEAK: Subscription Form Descriptions
+* TWEAK: Subscription Form Error Messages
+* TWEAK: Subscription Form Success Messages
+
+= 1.0.0 =
+
+* Initial Version Release
